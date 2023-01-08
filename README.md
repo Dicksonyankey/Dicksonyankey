@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFXDjL81eg/1u6i9U7HMdjVqkurlhngWQ/watch?utm_content=DAFXDjL81eg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://www.youtube.com/@dky_code)
 <h1 align="center">Hi 👋, I'm Dickson Kwasi Yankey</h1>
 <h3 align="center">A Young passionate developer</h3>
 
